@@ -1,0 +1,8 @@
+org\example\Domain\Book.class
+org\example\Service\ServiceLayer.class
+org\example\VO\Student.class
+org\example\Controller\HomeController.class
+org\example\Domain\DataObject.class
+org\example\ApiConsuming.class
+org\example\Repository\BookRepository.class
+org\example\Config\AppConfig.class
